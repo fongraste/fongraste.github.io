@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fongraste.github.io/sitemap
+Sitemap: https://fongraste.github.io/app/sitemap
+Sitemap: https://fongraste.github.io/assets/sitemap
+Sitemap: https://fongraste.github.io/css/sitemap
+Sitemap: https://fongraste.github.io/includes/sitemap
+Sitemap: https://fongraste.github.io/item/sitemap
+Sitemap: https://fongraste.github.io/src/sitemap
